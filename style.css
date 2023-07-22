@@ -213,12 +213,13 @@ footer{
    text-align: center;
    display: flex;
    background-size: cover;
+   left: 0;
+   bottom: 0;
+
    
 }
 footer p{
-    color: black;
-    
-   
+   color: white;
 }
 
 
